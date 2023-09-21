@@ -1,0 +1,24 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult":false,
+            "backdrop_path":"/weC2iMAMsrVulQX3Op6h033BY5d.jpg",
+            "id":42083,
+            "name":"Joséphine, Guardian Angel",
+            "original_language":"fr",
+            "original_name":"Joséphine, ange gardien",
+            "overview":"Josephine Delamarre is a guardian angel that Heaven sends to earth. With her psychological insight, ability of persuasion and magical powers, she manages to help people who have problems. She appears at the beginning of each mission; when the mission is completed, she disappears with a click of her fingers.",
+            "poster_path":"/bklI8tXDDScpibUCvrAjF9KwMtF.jpg",
+            "media_type":"tv",
+            "genre_ids":[35],
+            "popularity":63.89,
+            "first_air_date":"1997-12-15",
+            "vote_average":6.1,
+            "vote_count":12,
+            "origin_country":["FR"]
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+}

@@ -1,0 +1,22 @@
+{
+    "page": 1,
+    "results": [
+        {
+        "backdrop_path":"/yYNa1nqvNK94xZz3eKyfvZdAvPi.jpg",
+        "first_air_date":"2020-11-02",
+        "genre_ids":[10766],
+        "id":112470,
+        "name": "Here it all begins",
+        "origin_country":["FR"],
+        "original_language":"fr",
+        "original_name":"Ici tout commence",
+        "overview":"",
+        "popularity":5208.508,
+        "poster_path":"/60cqjI590JKXCAABqCStVmSBGET.jpg",
+        "vote_average":6.7,
+        "vote_count":17
+        }    
+    ],
+    "total_pages": 44,
+    "total_results": 874
+}
