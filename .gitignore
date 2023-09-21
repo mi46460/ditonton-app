@@ -47,3 +47,5 @@ app.*.map.json
 
 /coverage/
 !coverage/lcov.info
+
+genhtml.perl
