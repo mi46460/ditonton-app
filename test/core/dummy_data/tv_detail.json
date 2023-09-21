@@ -1,0 +1,48 @@
+{
+    "adult":false,
+    "backdrop_path":"/yYNa1nqvNK94xZz3eKyfvZdAvPi.jpg",
+    "created_by":[
+        {"id":1773234,"credit_id":"5f9eff357614210036f1f086","name":"Coline Assous","gender":0,"profile_path":null},
+        {"id":2503468,"credit_id":"5f9eff57a24232003566abdb","name":"Eric Fuhrer","gender":0,"profile_path":null},
+        {"id":2839536,"credit_id":"5f9eff622ceb530039567559","name":"Othman Mahfoud","gender":0,"profile_path":null}
+    ],
+    "episode_run_time":[28],
+    "first_air_date":"2020-11-02",
+    "genres":[{"id":10766,"name":"Soap"}],
+    "homepage":"https://www.tf1.fr/tf1/ici-tout-commence",
+    "id":112470,
+    "in_production":true,
+    "languages":["fr"],
+    "last_air_date":"2023-08-17",
+    "last_episode_to_air":{"id":4650358,"name":"Episode 732","overview":"","vote_average":0.0,"vote_count":0,"air_date":"2023-08-17","episode_number":732,"episode_type":"standard","production_code":"","runtime":null,"season_number":1,"show_id":112470,"still_path":"/xD4m0Pm0B6NuOdO5AyfFSmDo08q.jpg"}
+    ,"name":"Here it all begins",
+    "next_episode_to_air":{"id":4650359,"name":"Episode 733","overview":"","vote_average":0.0,"vote_count":0,"air_date":"2023-08-18","episode_number":733,"episode_type":"standard","production_code":"","runtime":null,"season_number":1,"show_id":112470,"still_path":"/2YOerND1n6aBbuT8pwJwfqqRdLO.jpg"},
+    "networks":[{"id":290,"logo_path":"/fqsd09CrijoGu6qfoNIdgUQmVGO.png","name":"TF1","origin_country":"FR"}],
+    "number_of_episodes":733,
+    "number_of_seasons":1,
+    "origin_country":["FR"],
+    "original_language":"fr",
+    "original_name":"Ici tout commence",
+    "overview":"",
+    "popularity":4381.194,
+    "poster_path":"/60cqjI590JKXCAABqCStVmSBGET.jpg",
+    "production_companies":[
+        {"id":23448,"logo_path":"/rKUrVCN0CkbrsaX3iO6bdx1cHYJ.png","name":"Telfrance","origin_country":"FR"},
+        {"id":35953,"logo_path":"/n4OA4cWRIjyGPVz6y7BXydyHSKU.png","name":"TF1 Production","origin_country":"FR"}
+    ],
+    "production_countries":[
+        {"iso_3166_1":"FR","name":"France"}
+    ],
+    "seasons":[
+        {"air_date":"2023-01-07","episode_count":2,"id":323679,"name":"Specials","overview":"","poster_path":"/kHiWgxrcsIf0cNDsttTY08dj9QN.jpg","season_number":0,"vote_average":0.0},
+        {"air_date":"2020-11-02","episode_count":733,"id":167388,"name":"Season 1","overview":"","poster_path":"/rwWD3wv41ziy1AFEtUfxzes0ksx.jpg","season_number":1,"vote_average":1.0}
+    ],
+    "spoken_languages":[
+        {"english_name":"French","iso_639_1":"fr","name":"Français"}
+    ],
+    "status":"Returning Series",
+    "tagline":"",
+    "type":"Scripted",
+    "vote_average":6.619,
+    "vote_count":21
+}
